@@ -1,0 +1,119 @@
+html{
+    font-size: 68.5%;
+}
+
+body{
+    font-family: "Poppins", sans-serif;
+    display: flex;
+    justify-content: center;
+    font-size: 1.5rem;
+    background-color: #131619;
+}
+    
+
+.portfolio{
+    height: 100vh;
+    width: 84vh;
+    background-color: 	#131619;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 7.2rem;
+    padding: 10rem;
+    /* border: #26292d solid 8px; */
+    border-radius: 1.2rem;
+    box-shadow: 1px 0px 20px #090b0f;
+}
+
+
+.hero{
+    display: flex;
+    justify-content: space-between;
+}
+
+.hero img{
+    width: 100%;
+}
+
+.hero p{
+    margin-bottom: 4rem;
+}
+
+.about{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.about div p{
+    width: 26vh;
+}
+
+.about div ul{
+    display: flex;
+    flex-direction: column;
+    color: #AAAAAA;
+}
+
+.about .skills{
+    transform: translateX(17%)
+}
+
+.projects{
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+}
+
+section,
+footer{
+    padding-top: 3rem;
+    border-top: #333333 1px solid;
+}
+
+.portfolio h2{
+    padding-bottom: 1.8rem;
+}
+
+.portfolio p{
+    color: 	#AAAAAA;
+}
+
+.portfolio .btn{
+    background-color: #3c9273;
+    padding: 15px 30px;
+    border-radius: 10px;
+}
+
+
+.portfolio .title{
+    display: flex;
+    justify-content: start;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer .btn-main{
+    transform: translateY(60%);
+}
+
+.footer .fab,
+.footer .fas{
+    color: 	#AAAAAA;
+    font-size: 2rem;
+}
+
+.footer .social-links a{
+    padding-right: 1.5rem;
+}
+
