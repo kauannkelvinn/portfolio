@@ -1,9 +1,23 @@
 @media (max-width:425px){
+
     .portfolio{
-        height: 80%;
+        height: 100vh;
+        width: 90vh;
         font-size: 1rem;
         gap: 5rem;
         border: none;
         box-shadow: none;
+        padding: 2rem;
+        margin-left: 2rem;
+        margin-right: 2rem;
+    }
+
+    .hero p{
+    
+    }
+
+    section,
+    footer{
+        padding
     }
 }
