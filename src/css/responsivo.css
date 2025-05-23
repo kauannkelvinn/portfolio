@@ -1,4 +1,4 @@
-@media (max-width:425px){
+@media (max-width:440px){
 
     .portfolio{
         height: 80%;
@@ -10,6 +10,8 @@
         margin-left: 4rem;
         margin-right: 4rem;
         margin-top: 4rem;
+        box-shadow: none;
+        border: none;
 
     }
 
